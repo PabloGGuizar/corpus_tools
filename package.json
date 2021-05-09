@@ -6,7 +6,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["concordance", "n_gram", "tokenizer", "corpus tools"],
+  "keywords": [
+    "concordance",
+    "n_gram",
+    "tokenizer",
+    "corpus tools"
+  ],
   "author": "Pablo G. Guízar",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloGGuizar/corpus_tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PabloGGuizar/corpus_tools/issues"
+  },
+  "homepage": "https://github.com/PabloGGuizar/corpus_tools#readme"
 }
