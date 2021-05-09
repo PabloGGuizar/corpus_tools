@@ -1,0 +1,12 @@
+{
+  "name": "corpus_tools",
+  "version": "1.0.0",
+  "description": "Corpus Tools is a simple NPM package for performing corpus linguistic analysis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["concordance", "n_gram", "tokenizer", "corpus tools"],
+  "author": "Pablo G. Guízar",
+  "license": "ISC"
+}
